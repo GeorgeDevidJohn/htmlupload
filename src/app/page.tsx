@@ -7,7 +7,7 @@ export default function Home() {
             <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg border border-white bg-white/80 text-sky-700">
               {"</>"}
             </span>
-            HTMLPitch
+            HTML Pitch
           </div>
           <div className="hidden items-center gap-5 text-sm font-medium md:flex">
             <a href="#features">Features</a>
