@@ -2,6 +2,7 @@ name = "htmlupload"
 compatibility_date = "2026-07-04"
 main = "src/app/page.tsx"
 
+
 [vars]
 # From .env.local
 CONVEX_DEPLOYMENT = "dev:blissful-salmon-254"
