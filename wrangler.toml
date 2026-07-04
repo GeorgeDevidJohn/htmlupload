@@ -1,6 +1,6 @@
 name = "htmlupload"
 compatibility_date = "2026-07-04"
-main = "src/index.ts"
+main = "src/page.tsx"
 
 [vars]
 # From .env.local
